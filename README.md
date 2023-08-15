@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fbre0717)](https://solved.ac/fbre0717)<br/>
+
 <!--
 **fbre0717/fbre0717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
