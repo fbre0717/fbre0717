@@ -11,6 +11,7 @@
 ## Experience
 - KAIST Madcamp (2023.07)
 - Web Developer Intern, GIST (2023.04 ~ 2023.06)
+- GDSC X GIST Hackathon (2023.04)
 - Machine Learning Developer Intern, GIST (2023.01 ~ 2023.02)
 - GIST Muhandojeon Project 5th (2020.05 – 2020.12)
 
