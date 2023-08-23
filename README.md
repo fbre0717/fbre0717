@@ -9,8 +9,8 @@
 
 
 ## Experience
-- Junction Asia 2023 Hackathon (2023.08.18 ~ 20)
-- KAIST Madcamp (2023.07)
+- [Junction Asia 2023 Hackathon](https://github.com/orgs/junction-sprout-team/repositories) (2023.08.18 ~ 20)
+- [KAIST Madcamp](https://github.com/fbre0717/KAIST_MADCAMP) (2023.07)
 - Web Developer Intern, GIST (2023.04 ~ 2023.06)
 - GDSC X GIST Hackathon (2023.04)
 - Machine Learning Developer Intern, GIST (2023.01 ~ 2023.02)
