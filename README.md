@@ -9,6 +9,7 @@
 
 
 ## Experience
+- Junction Asia 2023 Hackathon (2023.08.18 ~ 20)
 - KAIST Madcamp (2023.07)
 - Web Developer Intern, GIST (2023.04 ~ 2023.06)
 - GDSC X GIST Hackathon (2023.04)
